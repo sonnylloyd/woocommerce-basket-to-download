@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .wbtd-download-wrapper{
+   padding-left: 25px;
+ }
+ .wbtd-download-wrapper a.wbtd_single_down_button{
+   text-align: left;
+ }
